@@ -4,8 +4,10 @@
 
 A minimal,  aesthetic personal artist webiste that introduces my work as a singer-songwriter through text, visuals and embedded media.
 
-## 3 Specific References
-[Sufjan Stevens Artist Webpage](https://asthmatickitty.com/artists/sufjan-stevens/)
+## 3 Specific References 
+These are ideal examples with multiple pages.
+
+[Tom Misch Artist Webpage ](https://tommisch.com)
 
 [Emma Frank Artist Webapge](https://www.emmafrankmusic.com)
 
