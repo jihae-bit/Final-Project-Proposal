@@ -36,4 +36,5 @@ A fully designed personal artist website including professional layout, smooth t
 - Today: Submit proposal
 - 11.11: create indext.html with text sections (Name, About, Music, Contact)
 - 11.18: Add CSS (Design layout, fonts and colors, test text and images)
-- 11.25: finalize any revisions to make, host on GitHub or my personal website link
+- 11.25: Focus more on aesthetics (different fonts, images and etc)
+- 12.9 finalize any revisions to make, host on GitHub or my personal website link, presentation
